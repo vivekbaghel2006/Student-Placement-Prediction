@@ -83,7 +83,7 @@ Add the files above to the repository after checking that they do not contain co
 
 ## Team
 
-- Atharva Kamthan
+
 - Vivek Singh Baghel
 
 ITM University, Gwalior  
